@@ -29,7 +29,7 @@ cd xop
 sh ./scripts/build_project.sh  x86_64  
 ```  
 ## Release   
-* [xop](http://10.94.119.155/team/percep/porting/libraries/xop/-/tree/develop)   
+
 
 ## Known Issues   
 ```  
